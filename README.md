@@ -10,3 +10,8 @@ This AWS streaming pipeline ingests real-time Cryptocurrency price data from the
 This architecture ensures that the pipeline automatically processes incoming data, keeping the analytical layer up-to-date with the lastest information. 
 
 ![Pipeline Architecture](images/architecture.png)
+
+For more information about each part : Data ingestion, Data transformation and orchestration, you can refer to theses articles I wrote: 
+- [My Streamlining Data flow: Kinesis, Firehose & S3](https://medium.com/data-engineer-things/my-streamlining-data-flow-kinesis-firehose-s3-ea2566e2851e?sk=5cc23f626d0782caa8bb1fe642f941b4)
+- [How I automate my Glue Job using AWS SNS and AWS Lambda](https://medium.com/art-of-data-engineering/how-i-automate-my-glue-job-using-aws-sns-and-aws-lambda-0f1cff9841d1)
+- [How I Transform S3 Data with AWS Glue Jobs](https://medium.com/data-engineer-things/how-i-transform-s3-data-with-aws-glue-jobs-718f0c27b7c6)
